@@ -1,4 +1,5 @@
 # Belajar Flutter 3
+![ss 2](https://github.com/ihsanunot/Flutter_Web_Satu_Nav/assets/127992374/8a8f5b54-00d8-4087-8f0e-355e4a5b504b)
 
 Website News App
 
@@ -8,6 +9,7 @@ Cara Running:
 ```
 flutter run -d chrome --web-renderer html
 ```
+![ss 1](https://github.com/ihsanunot/Flutter_Web_Satu_Nav/assets/127992374/a72b277d-f5c4-4742-b590-c0dbebe066d5)
 
 Class lain tidak bisa dimasukan ke dalam class lagi.
 
