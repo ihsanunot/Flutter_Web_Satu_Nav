@@ -99,4 +99,14 @@ Widget build(BuildContext context) {
 
 yg widget PlatformWidget biasa nya ditaruh di bawah file.
 
+--- Beberapa file nya di Refactoring biar lebih rapih
+
+jadi di dalam lib nya main.dart, sisanya folder ui,folder common - isi nya styles.dart - folder ui - isi nya :
+- article_list_page.dart
+- detail_page.dart
+- home_page.dart
+- settings_page.dart
+
+
+
 Terima Kasih.
